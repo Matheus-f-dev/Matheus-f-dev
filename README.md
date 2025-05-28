@@ -95,14 +95,7 @@ Estou sempre em busca de aprendizado contínuo e oportunidades que me permitam c
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Blazor" 
-    title="Blazor"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Mysql" 
@@ -111,14 +104,7 @@ Estou sempre em busca de aprendizado contínuo e oportunidades que me permitam c
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#+"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
+
 
 <br/>
 <br/>
